@@ -17,7 +17,7 @@ function App() {
       <div className="header">
     <div className="center">
         <div className="header_logo">
-          <a href=""><img src="https://ignicaodigital.com.br/wp-content/uploads/2016/10/instagram-1594387_640.png"/></a>
+          <a href="logo"><img src="https://ignicaodigital.com.br/wp-content/uploads/2016/10/instagram-1594387_640.png"/></a>
         </div>
 
         {

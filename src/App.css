@@ -24,6 +24,13 @@
     width: 50%;
 }
 
+.header_logo img {
+  width: clamp(120px, 20vw, 20px);
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
 .header_loginForm{
     width: 50%;
     text-align: right;
